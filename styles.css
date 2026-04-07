@@ -1,20 +1,12 @@
-/*  your css code here. If applicable */
 /* Main Container */
-.container {
+.main-container {
     background-color: #f5f5f5;
     padding: 20px;
-    width: 60%;
-    margin: 20px auto;
-}
-
-/* Heading */
-h2 {
-    margin-bottom: 20px;
 }
 
 /* Testimonial Box */
 .testimonial {
-    background-color: white;
+    background-color: #ffffff;
     border: 1px solid #ddd;
     padding: 15px;
     margin-bottom: 15px;
